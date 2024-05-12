@@ -6,7 +6,7 @@
 
     <groupId>org.kurufreky</groupId>
     <artifactId>kurufreky</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>kurufreky-core</module>
@@ -19,5 +19,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+
 
 </project>

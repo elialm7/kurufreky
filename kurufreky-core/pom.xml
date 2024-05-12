@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.kurufreky</groupId>
         <artifactId>kurufreky</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>kurufreky-core</artifactId>
