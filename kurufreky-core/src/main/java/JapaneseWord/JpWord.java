@@ -16,7 +16,6 @@ public class JpWord {
         this.partofspeech = partofspeech;
         this.baseform = baseform;
         this.reading = reading;
-
         this.frecuency = frecuency;
     }
 

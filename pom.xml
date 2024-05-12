@@ -9,10 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>kurufreky-domain</module>
-        <module>kurufreky-application</module>
-        <module>kurufreky-GUI</module>
-        <module>kurufreky-infrastructure</module>
+        <module>kurufreky-core</module>
+        <module>kurufreky-app</module>
+        <module>kurufreky-persistance</module>
     </modules>
 
     <properties>
